@@ -33,7 +33,7 @@ sudo npm install -g pm2
 sudo pm2 start npm --name "nodejs-app" -- start
 
 # Configure pm2 to start on system boot
-sudo m2 startup systemd
+sudo pm2 startup systemd
 
 # Save the pm2 process list
 sudo pm2 save
