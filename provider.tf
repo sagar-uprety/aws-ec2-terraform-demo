@@ -20,10 +20,10 @@ terraform {
     }
   }
   
-  backend "s3" {
-    bucket = "terraform-backend-personal-dev"
-    region = "us-east-1"
-    encrypt = true
-    key = "static-web-app-dev/terraform.tfstate"
-  }
+  # backend "s3" {
+  #   bucket = "terraform-backend-personal-dev"
+  #   region = "us-east-1"
+  #   encrypt = true
+  #   key = "static-web-app-dev/terraform.tfstate"
+  # }
 }
