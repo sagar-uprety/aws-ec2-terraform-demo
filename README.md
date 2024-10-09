@@ -16,6 +16,12 @@ This repository contains Terraform code to provision necessary resources and dep
 
 ![AWS Architecture](image.png)
 
+
+## Guiding Video Tutorials and Notion Guide
+
+1. Full Notion Guide: Click [Here](https://bit.ly/terraform-with-sagar). Watch Full Tutorial 👇
+[![Watch the video](./yt-01.png)](https://www.youtube.com/watch?v=fG5BL7Uisag)
+
 ## Prerequisites
 - AWS Account with AdministratorAccess
 - Terraform CLI installed
